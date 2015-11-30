@@ -1,7 +1,7 @@
 {
-  "name": "johnkpaul",
+  "name": "jesseflorig",
   "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "description": "Jesse Florig, the person",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
@@ -10,6 +10,6 @@
     "person",
     "contact"
   ],
-  "author": "John K. Paul",
+  "author": "Jesse Florig,
   "license": "ISC"
 }
