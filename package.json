@@ -4,12 +4,18 @@
   "description": "Tony Boyles, the person",
   "main": "index.js",
   "scripts": {
+    "build-python": "python3 setup.py sdist bdist_wheel",
+    "publish-python": "python3 -m twine upload dist/*",
     "postinstall": "cat info.json"
   },
   "keywords": [
     "person",
     "contact"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/aaboyles/aaboyles.git"
+  },
   "author": "Tony Boyles",
   "license": "ISC"
 }
