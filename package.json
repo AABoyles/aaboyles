@@ -1,7 +1,7 @@
 {
-  "name": "jesseflorig",
+  "name": "aaboyles",
   "version": "1.0.0",
-  "description": "Jesse Florig, the person",
+  "description": "Tony Boyles, the person",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
@@ -10,6 +10,6 @@
     "person",
     "contact"
   ],
-  "author": "Jesse Florig",
+  "author": "Tony Boyles",
   "license": "ISC"
 }
