@@ -1,6 +1,4 @@
-# Tony Boyles, vp and cofounder of [Ephemer.ai](https://ephemer.ai/)
-
-[![Ephemer.ai Badge](https://img.shields.io/badge/-tony@ephemer.ai-purple?logo=gmail&logoColor=white&link=mailto:tony@ephemer.ai)](mailto:tony@ephemer.ai)
+# Tony Boyles, Data Scientist
 
 ## install
 
