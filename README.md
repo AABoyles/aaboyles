@@ -17,9 +17,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-AABoyles-black?logo=github)](https://github.com/AABoyles)
 [![Linkedin Badge](https://img.shields.io/badge/-AABoyles-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AABoyles/)](https://www.linkedin.com/in/aaboyles/)
-[![Twitter Badge](https://img.shields.io/badge/-@aaboyles-grey?logo=twitter)](https://twitter.com/AABoyles)
+[![Bluesky Badge](https://img.shields.io/badge/-@aaboyles-white?logo=bluesky&logoColor=blue)](https://bsky.app/profile/aaboyles.bsky.social)
 [![Gmail Badge](https://img.shields.io/badge/-aaboyles@gmail.com-red?logo=Gmail&logoColor=white&link=mailto:aaboyles@gmail.com)](mailto:aaboyles@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-aaboyles-white?logo=facebook)](https://facebook.com/AABoyles)
+[![Facebook Badge](https://img.shields.io/badge/-aaboyles-blue?logo=facebook)](https://facebook.com/AABoyles)
 [![Academia Badge](https://img.shields.io/badge/-AABoyles-grey?logo=academia)](https://gatech.academia.edu/AABoyles)
 [![Scholar Badge](https://img.shields.io/badge/-AABoyles-white?logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=31y8An0AAAAJ)
 [![ProtonMail Badge](https://img.shields.io/badge/-aaboyles@protonmail.com-purple?logo=ProtonMail)](mailto:aaboyles@protonmail.com)
